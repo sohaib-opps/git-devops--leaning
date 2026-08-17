@@ -1,0 +1,52 @@
+ 2 git status                                                                                                                                             
+   3 clear                                                                                                                                                  
+   4 git status                                                                                                                                             
+   5 clear                                                                                                                                                  
+   6 git add testing.py                                                                                                                                     
+   7 git status                                                                                                                                             
+   8 clear                                                                                                                                                  
+   9 git rm --cached                                                                                                                                        
+  10 gir rm --cached                                                                                                                                        
+  11 clear                                                                                                                                                  
+  12 git rm --cached                                                                                                                                        
+  13 git status                                                                                                                                             
+  14 git rm --cached testing.py                                                                                                                             
+  15 git status                                                                                                                                             
+  16 clear                                                                                                                                                  
+  17 git commit -m "added testing files"                                                                                                                    
+  18 git config                                                                                                                                             
+  19 clear                                                                                                                                                  
+  20 git status                                                                                                                                             
+  21 git add testing.py                                                                                                                                     
+  22 git status                                                                                                                                             
+  23 git commit -m "addes tested files"                                                                                                                     
+  24 git status                                                                                                                                             
+  25 git config                                                                                                                                             
+  26 git commit -m "addes tested files"                                                                                                                     
+  27 git config --global user.name "sohaib-opps"                                                                                                            
+  28 git config --global user.email "sohaib7701@gmail.com"                                                                                                  
+  29 clear                                                                                                                                                  
+  30 ls                                                                                                                                                     
+  31 git status                                                                                                                                             
+  32 git commit -m "files addes fro testing"                                                                                                                
+  33 git status                                                                                                                                             
+  34 clear                                                                                                                                                  
+  35 git status                                                                                                                                             
+  36 git rm testing.py                                                                                                                                      
+  37 git status                                                                                                                                             
+  38 clear                                                                                                                                                  
+  39 git restore testing-py                                                                                                                                 
+  40 gti status                                                                                                                                             
+  41 clear                                                                                                                                                  
+  42 gti status                                                                                                                                             
+  43 clear                                                                                                                                                  
+  44 git status                                                                                                                                             
+  45 git restore testing.py                                                                                                                                 
+  46 git restore testing.py                                                                                                                                 
+  47 git restore testing.py                                                                                                                                 
+  48 git restore --staged  testing.py                                                                                                                       
+  49 ls                                                                                                                                                     
+  50 git statuss                                                                                                                                            
+  51 git status                                                                                                                                             
+  52 git restore  testing.py                                                                                                                                
+  53 hsiotry                                                                                                                                                
